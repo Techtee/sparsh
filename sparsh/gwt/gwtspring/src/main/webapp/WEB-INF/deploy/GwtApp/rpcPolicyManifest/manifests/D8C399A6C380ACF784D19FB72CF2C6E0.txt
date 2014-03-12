@@ -1,0 +1,2 @@
+serviceClass: com.gwtapps.gwtspring.shared.services.LoginService
+path: 8813CF0621F96019F11D800E27CCECBF.gwt.rpc

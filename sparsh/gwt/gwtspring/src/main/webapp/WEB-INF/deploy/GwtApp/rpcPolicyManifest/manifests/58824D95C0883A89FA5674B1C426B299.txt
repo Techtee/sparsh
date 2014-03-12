@@ -1,0 +1,2 @@
+serviceClass: com.gwtapps.gwtspring.shared.services.EmployeeService
+path: 224836383CA73FFBC623DAD5E60B7FBB.gwt.rpc

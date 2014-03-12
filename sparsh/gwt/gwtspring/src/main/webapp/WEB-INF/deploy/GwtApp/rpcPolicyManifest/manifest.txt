@@ -1,0 +1,4 @@
+# Module GwtApp
+# RPC service class, partial path of RPC policy file
+com.gwtapps.gwtspring.shared.services.EmployeeService, 224836383CA73FFBC623DAD5E60B7FBB.gwt.rpc
+com.gwtapps.gwtspring.shared.services.LoginService, 8813CF0621F96019F11D800E27CCECBF.gwt.rpc

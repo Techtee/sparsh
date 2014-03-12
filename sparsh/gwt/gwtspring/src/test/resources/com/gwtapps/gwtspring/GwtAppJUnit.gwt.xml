@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <!-- Inherit our applications main module.                      -->
+  <inherits name='com.gwtapps.gwtspring.GwtApp' />
+
+  <!-- Specify the path to any remote services.                   -->
+  <servlet path="/GwtApp/greet" class="com.gwtapps.gwtspring.server.GreetingServiceImpl" />
+
+</module>
